@@ -29,9 +29,13 @@ To run the analysis on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/electoral-bond-data-analysis.git
    cd electoral-bond-data-analysis
-
+## Key Insights
+The analysis identifies several trends and patterns in the data, providing actionable insights that contribute to discussions on electoral reforms and transparency in political donations. Detailed findings and visualizations are available in the reports/ and visualizations/ directories.
 
 ## ScreenShots of Tables describtion:
+![Screenshot 2024-07-30 143633](https://github.com/user-attachments/assets/b54dedc5-281b-4878-9fcd-7591e4818355)
+![Screenshot 2024-07-30 143753](https://github.com/user-attachments/assets/5903bde4-0749-41a0-8f43-cc1aa2882319)
+![Screenshot 2024-07-30 143820](https://github.com/user-attachments/assets/271498ee-93d8-471c-b57c-df2e8870d8d6)
 
 Electoral bonds are a financial instrument designed for the purpose of making donations to political parties in India. They were introduced in 2018 to promote transparency in political funding and to curb black money. Data related to electoral bonds typically involves various details about the transactions, donors, and recipient political parties.
 
