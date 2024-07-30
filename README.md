@@ -21,14 +21,5 @@ This repository is dedicated to analyzing electoral bond data using MySQL. Elect
 - **`results/`**: Output from SQL queries, such as reports and summary data.
   - **`reports/`**: Generated reports and summaries in text or CSV format.
 
-- **`README.md`**: This documentation file.
 
-## Getting Started
 
-To begin using this project:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/electoral-bond-data-mysql.git
-   cd electoral-bond-data-mysql
