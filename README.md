@@ -1,15 +1,38 @@
 # Electoral Bond Data Analysis with MySQL
+# Electoral Bond Data Analysis
 
 ## Overview
 
-This repository is dedicated to analyzing electoral bond data using MySQL. Electoral bonds are financial instruments designed for political funding, and this project aims to explore and analyze this data to uncover patterns and insights.
+This repository contains an analysis of the distribution and impact of electoral bonds on political funding in India. The analysis utilizes data from government reports and third-party databases to provide insights into trends and patterns in political donations. The project aims to contribute to the debate on electoral reforms and transparency in political funding.
+
+## Contents
+
+- `data/`: Contains raw data files used for analysis.
+- `notebooks/`: Jupyter notebooks with data cleaning, exploratory data analysis, and statistical analysis.
+- `scripts/`: Python scripts for data processing and analysis.
+- `visualizations/`: Graphs and charts generated from the analysis.
+- `reports/`: Detailed reports summarizing the key insights from the analysis.
+
+## Tools and Libraries
+
+The analysis was conducted using the following Python libraries:
+- **Pandas**: For data manipulation and cleaning.
+- **NumPy**: For numerical operations.
+- **Matplotlib**: For data visualization and plotting.
+
+## Getting Started
+
+To run the analysis on your local machine, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/electoral-bond-data-analysis.git
+   cd electoral-bond-data-analysis
+
 
 ## ScreenShots of Tables describtion:
-![Screenshot 2024-07-30 143545](https://github.com/user-attachments/assets/2483adf7-03f3-4186-8f1b-25146dd696e9)
-![Screenshot 2024-07-30 143607](https://github.com/user-attachments/assets/e8df4142-fd10-4c29-8edf-50393258321a)
-![Screenshot 2024-07-30 143633](https://github.com/user-attachments/assets/b54dedc5-281b-4878-9fcd-7591e4818355)
-![Screenshot 2024-07-30 143753](https://github.com/user-attachments/assets/5903bde4-0749-41a0-8f43-cc1aa2882319)
-![Screenshot 2024-07-30 143820](https://github.com/user-attachments/assets/271498ee-93d8-471c-b57c-df2e8870d8d6)
+
 Electoral bonds are a financial instrument designed for the purpose of making donations to political parties in India. They were introduced in 2018 to promote transparency in political funding and to curb black money. Data related to electoral bonds typically involves various details about the transactions, donors, and recipient political parties.
 
 Here’s a hypothetical description of columns you might find in an electoral bond data set:
